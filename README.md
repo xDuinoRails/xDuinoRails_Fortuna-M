@@ -3,8 +3,6 @@ Connect your DCC model railroad to a Adafruit QT-Py or Seed XIAO microcontroller
 
 <img width="500" alt="image of the frontside of fortuna" src="https://github.com/user-attachments/assets/fd59aa83-b9cc-40bc-865e-81d18020966d" />
 
-n.b.: Early beta stage, better images coming soon.
-
 ## Description
 Run a simple function decocder with your preferred QT-Py / XIAO compatible MCU:
 
